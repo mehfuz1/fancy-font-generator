@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mehfuz1.github.io/fancy-font-generator/sitemap.xml
